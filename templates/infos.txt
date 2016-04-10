@@ -1,0 +1,18 @@
+TEXT
+ * Use font Roboto Bold for normal text.
+ * Use font Roboto Bold Italic to emphasize.
+ * The text is top left aligned.
+ * The text size is one of the following:
+   18pt, 16pt, 14pt, 12pt, 11pt, 10pt or smaller.
+   Use the biggest that looks good.
+ * You can insert line breaks if it looks better than the automatic wrapping.
+ * No word breaks if not necessary.
+ * Use these quotation marks: “”
+ * Use this apostrophe: ’
+ * The length of the ____ should be so that it lines up nicely.
+   Don't make it too short.
+ * The ____ consists of underscores.
+ * End cards with a dot or something.
+PDF
+ * Outline fonts, don't embed.
+ 
