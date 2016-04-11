@@ -9,6 +9,7 @@ TEXT
  * No word breaks if not necessary.
  * Use these quotation marks: “”
  * Use this apostrophe: ’
+ * Use this dash with whitespaces around it as a break in a sentence: –
  * The length of the ____ should be so that it lines up nicely.
    Don't make it too short.
  * The ____ consists of underscores.

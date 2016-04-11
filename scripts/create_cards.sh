@@ -12,7 +12,7 @@
 mkdir white
 
 # this is the line we replace in the template
-TPL_LINE='<ITEXT FONT="Roboto Bold" FONTSIZE="12" FCOLOR="Black RGB" KERN="-1.5" wordTrack="1" CH="Cards Against Humanity"/>'
+TPL_LINE='<ITEXT FONT="Roboto Bold" FONTSIZE="12" FCOLOR="Black" KERN="-1.5" wordTrack="1" CH="Cards Against Humanity"/>'
 
 # loop through lines in the white.txt
 while read -u 10 LINE; do
@@ -21,8 +21,6 @@ while read -u 10 LINE; do
 	TEXT="${LINE//[\/\\\*\"\|<>:\?]/_}"
 	# remove "."s at the end
 	TEXT="$( echo "$TEXT" | sed 's/\.*$//' )"
-	
-	mkdir "./white/$TEXT"
 	
 	# escape chars that don't work with .sla files
 	LINE="${LINE//&/\&amp;}"
@@ -33,10 +31,10 @@ while read -u 10 LINE; do
 	LINE="${LINE//[\|]/\|}"
 	
 	# this is the line we replace the other line in the template with
-	TPL_NEW_LINE="<ITEXT FONT=\"Roboto Bold\" FONTSIZE=\"18\" FCOLOR=\"Black RGB\" KERN=\"-1.5\" wordTrack=\"1\" CH=\"$LINE\"/>"
+	TPL_NEW_LINE="<ITEXT FONT=\"Roboto Bold\" FONTSIZE=\"18\" FCOLOR=\"Black\" KERN=\"-1.5\" wordTrack=\"1\" CH=\"$LINE\"/>"
 	
 	# write the .sla file
-	cat ./templates/white.sla | sed "s|$TPL_LINE|$TPL_NEW_LINE|" | sed 's/\.\.\/logo\.jpg/..\/..\/logo.jpg/' > "./white/$TEXT/card.sla"
+	cat ./templates/white.sla | sed "s|$TPL_LINE|$TPL_NEW_LINE|" > "./white/$TEXT.sla"
 	
 done 10<white.txt
 
@@ -48,7 +46,7 @@ done 10<white.txt
 mkdir black
 
 # this is the line we replace in the template
-TPL_LINE='<ITEXT FONT="Roboto Bold" FONTSIZE="16" FCOLOR="White RGB" KERN="-1.5" wordTrack="1" CH="This is a template for ______________."/>'
+TPL_LINE='<ITEXT FONT="Roboto Bold" FONTSIZE="16" FCOLOR="White" KERN="-1.5" wordTrack="1" CH="This is a template for ______________."/>'
 
 # loop through lines in the black.txt
 while read -u 10 LINE; do
@@ -57,8 +55,6 @@ while read -u 10 LINE; do
 	TEXT="${LINE//[\/\\\*\"\|<>:\?]/_}"
 	# remove "."s at the end
 	TEXT="$( echo "$TEXT" | sed 's/\.*$//' )"
-	
-	mkdir "./black/$TEXT"
 	
 	# escape chars that don't work with .sla files
 	LINE="${LINE//&/\&amp;}"
@@ -69,10 +65,10 @@ while read -u 10 LINE; do
 	LINE="${LINE//[\|]/\|}"
 	
 	# this is the line we replace the other line in the template with
-	TPL_NEW_LINE="<ITEXT FONT=\"Roboto Bold\" FONTSIZE=\"18\" FCOLOR=\"White RGB\" KERN=\"-1.5\" wordTrack=\"1\" CH=\"$LINE\"/>"
+	TPL_NEW_LINE="<ITEXT FONT=\"Roboto Bold\" FONTSIZE=\"18\" FCOLOR=\"White\" KERN=\"-1.5\" wordTrack=\"1\" CH=\"$LINE\"/>"
 	
 	# write the .sla file
-	cat ./templates/black.sla | sed "s|$TPL_LINE|$TPL_NEW_LINE|" | sed 's/\.\.\/logo\.jpg/..\/..\/logo.jpg/' > "./black/$TEXT/card.sla"
+	cat ./templates/black.sla | sed "s|$TPL_LINE|$TPL_NEW_LINE|" > "./black/$TEXT.sla"
 	
 done 10<black.txt
 
