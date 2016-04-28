@@ -24,3 +24,4 @@
 024 Drop your weapon! You stand no chance against my ____.
 025 I invented ____ surfing.
 026 The new species is called ____us. [Append each word of your white card with a Latin declension: us, is, as, os, ius, ium, ios, um, orum, ae, ibus, ...]
+027 The old masters never understood that there were actually five elements: water, earth, fire, air and ____.
