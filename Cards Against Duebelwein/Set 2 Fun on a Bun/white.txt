@@ -20,16 +20,22 @@
 020 Boobs.
 021 Dick pics.
 022 Rolling the Mona Lisa into a one billion dollar cigar.
-023 Mom’s spaghetti.
-024 Infrastructure.
-025 Poisoning children.
-026 Getting the toast out with a fork.
-027 Inviting a vampire into your home.
-028 Selling your kidneys on the internet.
-029 Pressing the red button.
-030 Something even more disgusting than Jack Daniels.
-031 Boaty McBoatface.
-032 Adolf Hitler school for friendship and tolerance.
-033 ... I'd rather not say.
-034 Waiting for the perfect moment.
-035 The Endlösung.
+023 Mom’s spaghetti. [MN]
+024 Infrastructure. [MN]
+025 Poisoning children. [MN]
+026 Getting the toast out with a fork. [MN]
+027 Inviting a vampire into your home. [MN]
+028 Selling your kidneys on the internet. [MN]
+029 Pressing the red button. [MN]
+030 Something even more disgusting than Jack Daniels. [AT]
+031 Boaty McBoatface. [MN]
+032 Adolf Hitler school for friendship and tolerance. [MN]
+033 ... I'd rather not say. [MN]
+034 Waiting for the perfect moment. [MN]
+035 The Endlösung. [MN]
+036 Giving you up and letting you down. [AT]
+037 Asking dumb questions. [MN]
+038 Expecting change. [MN]
+039 Going the hard way even though there is an easy one. [MN]
+040 Bravery. [MN]
+041 Cocoa with marshmallow. [MN]

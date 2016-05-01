@@ -1,5 +1,5 @@
 001 “I baked you a pie.” - “Oh boy, what flavor?”
 002 ____ run when a good man goes to war.
-003 “Fine! I’ll go build my own ____, with blackjack and hookers!”
-004 Everything changed when ____ attacked.
-005 Your father was a powerful wizard, Harry. Before he died, he left you something very precious: ____.
+003 “Fine! I’ll go build my own ____, with blackjack and hookers!” [MN]
+004 Everything changed when ____ attacked. [MN]
+005 Your father was a powerful wizard, Harry. Before he died, he left you something very precious: ____. [AT]

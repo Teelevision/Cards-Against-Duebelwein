@@ -1,10 +1,10 @@
 001 “Customers who bought ____ also bought ____.”
 002 I ____ before it was cool.
-003 In Soviet Russia ____ you.
+003 In Soviet Russia ____ you. [MN]
 004 It’s raining ____.
 005 What the ____?!
-006 ____ is just his way of saying "I love you".
-007 How is the ISIS killing its prisoners now?
+006 ____ is just his way of saying "I love you". [MN]
+007 How is the ISIS killing its prisoners now? [MN]
 008 What feeds a family of four?
 009 ____? What could possibly go wrong?
 010 A good day is incomplete without ____ and ____.
@@ -17,12 +17,15 @@
 017 ____ in my pants.
 018 What did I accidentally yell out during sex?
 019 Who smoked all the weed?
-020 When I’m lonely I send myself ____.
-021 Roses are red, Violets are blue, I ____, ____ you!
-022 I know that ____ is degrading, but it pays well.
-023 Now that coal is carried to end, we begin to mine ____ to satisfy our energy demand.
-024 What’s hidden in my closet and runs on four AA batteries?
-025 You might be regular cool, but you will never be ____ cool.
-026 When the aliens discovered earth they were more advanced in nearly everything – technology, ethics, living standards – but they lacked ____.
-027 “I have a dream that one day ____.”
-028 “____? Meh. I was bored anyway.”
+020 When I’m lonely I send myself ____. [MN]
+021 Roses are red, Violets are blue, I ____, ____ you! [MN]
+022 I know that ____ is degrading, but it pays well. [MN]
+023 Now that coal is carried to end, we begin to mine ____ to satisfy our energy demand. [MN]
+024 What’s hidden in my closet and runs on four AA batteries? [MN]
+025 You might be regular cool, but you will never be ____ cool. [MN]
+026 When the aliens discovered earth they were more advanced in nearly everything – technology, ethics, living standards – but they lacked ____. [MN]
+027 “I have a dream that one day ____.” [MN]
+028 “____? Meh. I was bored anyway.” [MN]
+029 Instead of the Axe-Effect, all I got was the ____-Effect. [AT]
+030 With enough duct tape even ____ is fixable. [AT]
+031 ____ is a dildo if you’re brave enough. [MN]

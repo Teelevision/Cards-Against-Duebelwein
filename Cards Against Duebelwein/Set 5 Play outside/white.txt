@@ -6,11 +6,14 @@
 006 Beaver brothers.
 007 The Apache attack helicopter.
 008 Living on trees.
-009 The screams! The terrible screams!
-010 An earthquake.
-011 A tsunami.
-012 Setting yourself on fire.
-013 Using your private parts as piranha bait.
-014 Dressing up like a moose during hunting season.
-015 Kicking a nest of wasps.
-016 Getting drone-striked.
+009 The screams! The terrible screams! [AT]
+010 An earthquake. [MN]
+011 A tsunami. [MN]
+012 Setting yourself on fire. [MN]
+013 Using your private parts as piranha bait. [MN]
+014 Dressing up like a moose during hunting season. [MN]
+015 Kicking a nest of wasps. [MN]
+016 Getting drone-striked. [MN]
+017 Living inside a kangaroo’s pouch. [MN]
+018 Cute animals with deadly weapons. [MN]
+019 Action potential. [MN]
