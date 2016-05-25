@@ -1,0 +1,6 @@
+You can print cards in poker size 2.5" x 3.5" (63.5mm x 89mm) at printerstudio.
+I used the printerstudio_*.sh scripts to render PNGs for that.
+
+I ordered a batch of black cards and they look good, not perfect, but good.
+See the images.
+I cannot compare to original CAH cards because I don't own any.
