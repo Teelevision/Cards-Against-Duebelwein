@@ -2,7 +2,6 @@
 002 ____ run when a good man goes to war.
 003 “Fine! I’ll go build my own ____, with blackjack and hookers!” [MN]
 004 Everything changed when ____ attacked. [MN]
-005 Your father was a powerful wizard, Harry. Before he died, he left you something very precious: ____. [AT]
 006 Once you go black ____, you never go back ____. [PICK1, MN]
 007 So long and thanks for all the ____. [LO]
 008 Quick! To the ____ mobile! [LO]
