@@ -4,3 +4,7 @@
 004 Damn furries, they ruined ____! [MN]
 005 But who will build the roads? [MN]
 006 The US government is now fighting ____ with ____. [PICK 1] [MN]
+007 All people are equal. Except ____. ____ is just bad. [PICK 1] [MN]
+008 ____ thinks it’s people. Cute. [MN]
+009 Syrian refugees brought ____ to our country. [MN]
+010 ____. TRIGGERED!

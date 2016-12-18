@@ -1,3 +1,5 @@
 001 Fitting ten rifles, two pistols, a chainsaw and ____ into your inventory.
 002 ____. Gotta catch ’em all.
 003 In the initial concept Princess Peach was captured by ____.
+004 I chose you, ____!
+005 We are the ____. [MP]
